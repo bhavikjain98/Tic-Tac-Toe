@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-C++ Program for Tic-Tac_toe Game.
+C++ Program for Tic-Tac-Toe Game.
